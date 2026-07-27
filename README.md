@@ -1066,7 +1066,7 @@ width:400px;
 ```
 
 ## OUTPUT
+![alt text](<Screenshot 2026-07-25 114756.png>)
 
-![alt text](<image/Screenshot 2026-07-25 114756.png>)
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
